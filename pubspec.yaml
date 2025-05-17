@@ -16,11 +16,13 @@ dependencies:
   app_lifecycle_observer:
     git:
       url: git@github.com:marrbor/dart_libs_private.git
-      path: app_lifecycle_observer
+      path: packages/observers/app_lifecycle_observer
+#      ref: v1.0.0
   connectivity_observer:
     git:
       url: git@github.com:marrbor/dart_libs_private.git
-      path: connectivity_observer
+      path: packages/observers/connectivity_observer
+#      ref: fix/temporary
 
 dev_dependencies:
   flutter_test:
