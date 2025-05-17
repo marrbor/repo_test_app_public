@@ -28,10 +28,10 @@ packages:
   app_lifecycle_observer:
     dependency: "direct main"
     description:
-      path: "."
+      path: app_lifecycle_observer
       ref: HEAD
-      resolved-ref: "23c8daaee9de2d711d9111b3e98900900f2a42a0"
-      url: "https://github.com/marrbor/app_lifecycle_observer"
+      resolved-ref: cd6540ee326edf91d5a001a8a222e5c5ea67376e
+      url: "git@github.com:marrbor/dart_libs_private.git"
     source: git
     version: "0.0.1"
   args:
@@ -109,10 +109,10 @@ packages:
   connectivity_observer:
     dependency: "direct main"
     description:
-      path: "."
+      path: connectivity_observer
       ref: HEAD
-      resolved-ref: "337786f74e950ee0ff62e956a857c03994d7af9c"
-      url: "git@github.com:marrbor/connectivity_observer_private"
+      resolved-ref: cd6540ee326edf91d5a001a8a222e5c5ea67376e
+      url: "git@github.com:marrbor/dart_libs_private.git"
     source: git
     version: "0.0.1"
   connectivity_plus:

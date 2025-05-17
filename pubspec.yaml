@@ -14,10 +14,13 @@ dependencies:
   cupertino_icons: ^1.0.8
   connectivity_plus: ^6.1.4
   app_lifecycle_observer:
-    git: https://github.com/marrbor/app_lifecycle_observer
+    git:
+      url: git@github.com:marrbor/dart_libs_private.git
+      path: app_lifecycle_observer
   connectivity_observer:
     git:
-      url: git@github.com:marrbor/connectivity_observer_private
+      url: git@github.com:marrbor/dart_libs_private.git
+      path: connectivity_observer
 
 dev_dependencies:
   flutter_test:
